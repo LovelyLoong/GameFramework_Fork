@@ -1,7 +1,7 @@
 {
-  "name": "com.lovelyloong.gameframeworkfork", 
-  "version": "1.0.0",                            
-  "displayName": "GameFramework (Source - Your Fork)",
+  "name": "com.lovelyloong.gameframeworkfork",
+  "version": "1.0.0",
+  "displayName": "GameFramework (Source - Lovelyloong Fork)",
   "description": "Source code of GameFramework from your fork, prepared for Unity.",
-  "unity": "2022.3"                             
+  "unity": "2022.3"
 }
